@@ -2,6 +2,13 @@
 
 Ein spezialisierter Node zur Generierung von **subjektlosen Bild-Prompts** - perfekt für Hintergründe, Umgebungen und Compositing-Workflows. Der Node nutzt OpenAI's API um hochwertige Style-Prompts zu erzeugen, die bewusst KEINE Menschen, Tiere oder Charaktere enthalten.
 
+| Input | Output Example |
+|--------|--------|
+| <img src="https://github.com/user-attachments/assets/0f5a9546-30fe-428b-9677-e7cb346de2e9" width="350"/> | <img src="https://github.com/user-attachments/assets/ce2631a1-cb47-485a-8474-6dc93a851bce" width="350"/> |
+| <img src="https://github.com/user-attachments/assets/30789a29-32cd-4535-9b92-3e859f6b3c67" width="350"/> | <img src="https://github.com/user-attachments/assets/cdb20040-87e3-4ac3-b3b6-642a4fb9aa8b" width="350"/> |
+
+
+
 ## 🎯 Hauptmerkmale
 
 - **Subjektlos by Design**: Generiert ausschließlich Umgebungs- und Hintergrund-Prompts
