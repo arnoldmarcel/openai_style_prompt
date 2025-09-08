@@ -1,6 +1,9 @@
 # OpenAI Style Prompt (Subjectless) für ComfyUI
 
 Ein spezialisierter Node zur Generierung von **subjektlosen Bild-Prompts** - perfekt für Hintergründe, Umgebungen und Compositing-Workflows. Der Node nutzt OpenAI's API um hochwertige Style-Prompts zu erzeugen, die bewusst KEINE Menschen, Tiere oder Charaktere enthalten.
+<img width="457" height="633" alt="grafik" src="https://github.com/user-attachments/assets/0f5a9546-30fe-428b-9677-e7cb346de2e9" />
+
+
 
 ## 🎯 Hauptmerkmale
 
